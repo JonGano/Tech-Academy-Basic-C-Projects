@@ -1,0 +1,6 @@
+C:\Users\Jon\Desktop\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\bin\Debug\WelcomeAssignment.exe.config
+C:\Users\Jon\Desktop\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\bin\Debug\WelcomeAssignment.exe
+C:\Users\Jon\Desktop\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\bin\Debug\WelcomeAssignment.pdb
+C:\Users\Jon\Desktop\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\obj\Debug\WelcomeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Desktop\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\obj\Debug\WelcomeAssignment.exe
+C:\Users\Jon\Desktop\Basic_C#_Programs\WelcomeAssignment\WelcomeAssignment\obj\Debug\WelcomeAssignment.pdb
