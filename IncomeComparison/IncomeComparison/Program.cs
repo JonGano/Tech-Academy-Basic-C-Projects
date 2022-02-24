@@ -42,7 +42,7 @@ namespace IncomeComparison
             Console.WriteLine("Annual salary of Person 2: ");
             Console.WriteLine(person2Salary);
             // creates a boolean variable to answer the question is person1's salary more than person2's.
-            bool SalaryComp = person1Salary < person2Salary;
+            bool SalaryComp = person1Salary > person2Salary;
             //prints the results of the boolean equation in the console and tells user what it is
             Console.WriteLine("Does Person 1 make more money than Person 2?");
             Console.WriteLine(SalaryComp);
