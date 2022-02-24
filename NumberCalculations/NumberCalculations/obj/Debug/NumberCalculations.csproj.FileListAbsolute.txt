@@ -1,0 +1,7 @@
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\NumberCalculations\NumberCalculations\bin\Debug\NumberCalculations.exe.config
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\NumberCalculations\NumberCalculations\bin\Debug\NumberCalculations.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\NumberCalculations\NumberCalculations\bin\Debug\NumberCalculations.pdb
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\NumberCalculations\NumberCalculations\obj\Debug\NumberCalculations.csproj.AssemblyReference.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\NumberCalculations\NumberCalculations\obj\Debug\NumberCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\NumberCalculations\NumberCalculations\obj\Debug\NumberCalculations.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\NumberCalculations\NumberCalculations\obj\Debug\NumberCalculations.pdb
