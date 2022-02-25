@@ -1,0 +1,7 @@
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\priceQuote\priceQuote\bin\Debug\priceQuote.exe.config
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\priceQuote\priceQuote\bin\Debug\priceQuote.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\priceQuote\priceQuote\bin\Debug\priceQuote.pdb
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\priceQuote\priceQuote\obj\Debug\priceQuote.csproj.AssemblyReference.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\priceQuote\priceQuote\obj\Debug\priceQuote.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\priceQuote\priceQuote\obj\Debug\priceQuote.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\priceQuote\priceQuote\obj\Debug\priceQuote.pdb
