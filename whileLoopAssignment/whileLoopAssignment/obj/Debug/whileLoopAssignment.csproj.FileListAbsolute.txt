@@ -1,0 +1,7 @@
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\whileLoopAssignment\whileLoopAssignment\bin\Debug\whileLoopAssignment.exe.config
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\whileLoopAssignment\whileLoopAssignment\bin\Debug\whileLoopAssignment.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\whileLoopAssignment\whileLoopAssignment\bin\Debug\whileLoopAssignment.pdb
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\whileLoopAssignment\whileLoopAssignment\obj\Debug\whileLoopAssignment.csproj.AssemblyReference.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\whileLoopAssignment\whileLoopAssignment\obj\Debug\whileLoopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\whileLoopAssignment\whileLoopAssignment\obj\Debug\whileLoopAssignment.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\whileLoopAssignment\whileLoopAssignment\obj\Debug\whileLoopAssignment.pdb
