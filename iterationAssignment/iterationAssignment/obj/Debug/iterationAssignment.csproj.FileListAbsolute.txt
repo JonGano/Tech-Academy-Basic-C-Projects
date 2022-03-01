@@ -1,0 +1,7 @@
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\iterationAssignment\iterationAssignment\bin\Debug\iterationAssignment.exe.config
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\iterationAssignment\iterationAssignment\bin\Debug\iterationAssignment.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\iterationAssignment\iterationAssignment\bin\Debug\iterationAssignment.pdb
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\iterationAssignment\iterationAssignment\obj\Debug\iterationAssignment.csproj.AssemblyReference.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\iterationAssignment\iterationAssignment\obj\Debug\iterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\iterationAssignment\iterationAssignment\obj\Debug\iterationAssignment.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\iterationAssignment\iterationAssignment\obj\Debug\iterationAssignment.pdb
