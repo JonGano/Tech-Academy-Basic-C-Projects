@@ -1,0 +1,7 @@
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\CreateClassAssignment\CreateClassAssignment\bin\Debug\CreateClassAssignment.exe.config
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\CreateClassAssignment\CreateClassAssignment\bin\Debug\CreateClassAssignment.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\CreateClassAssignment\CreateClassAssignment\bin\Debug\CreateClassAssignment.pdb
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\CreateClassAssignment\CreateClassAssignment\obj\Debug\CreateClassAssignment.csproj.AssemblyReference.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\CreateClassAssignment\CreateClassAssignment\obj\Debug\CreateClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\CreateClassAssignment\CreateClassAssignment\obj\Debug\CreateClassAssignment.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\CreateClassAssignment\CreateClassAssignment\obj\Debug\CreateClassAssignment.pdb
