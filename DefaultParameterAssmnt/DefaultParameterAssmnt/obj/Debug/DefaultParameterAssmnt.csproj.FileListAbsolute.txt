@@ -1,0 +1,7 @@
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\DefaultParameterAssmnt\DefaultParameterAssmnt\bin\Debug\DefaultParameterAssmnt.exe.config
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\DefaultParameterAssmnt\DefaultParameterAssmnt\bin\Debug\DefaultParameterAssmnt.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\DefaultParameterAssmnt\DefaultParameterAssmnt\bin\Debug\DefaultParameterAssmnt.pdb
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\DefaultParameterAssmnt\DefaultParameterAssmnt\obj\Debug\DefaultParameterAssmnt.csproj.AssemblyReference.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\DefaultParameterAssmnt\DefaultParameterAssmnt\obj\Debug\DefaultParameterAssmnt.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\DefaultParameterAssmnt\DefaultParameterAssmnt\obj\Debug\DefaultParameterAssmnt.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\DefaultParameterAssmnt\DefaultParameterAssmnt\obj\Debug\DefaultParameterAssmnt.pdb
