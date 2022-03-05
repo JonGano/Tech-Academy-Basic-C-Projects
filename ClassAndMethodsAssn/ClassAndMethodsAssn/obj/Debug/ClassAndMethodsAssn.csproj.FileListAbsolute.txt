@@ -1,0 +1,7 @@
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethodsAssn\ClassAndMethodsAssn\obj\Debug\ClassAndMethodsAssn.csproj.AssemblyReference.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethodsAssn\ClassAndMethodsAssn\obj\Debug\ClassAndMethodsAssn.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethodsAssn\ClassAndMethodsAssn\bin\Debug\ClassAndMethodsAssn.exe.config
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethodsAssn\ClassAndMethodsAssn\bin\Debug\ClassAndMethodsAssn.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethodsAssn\ClassAndMethodsAssn\bin\Debug\ClassAndMethodsAssn.pdb
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethodsAssn\ClassAndMethodsAssn\obj\Debug\ClassAndMethodsAssn.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\ClassAndMethodsAssn\ClassAndMethodsAssn\obj\Debug\ClassAndMethodsAssn.pdb
