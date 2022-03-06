@@ -10,9 +10,10 @@ namespace AbstractClassAssignment
     {
         static void Main(string[] args)
         {   //Instantiates an object from the Employee class
-            Empoyee HomerS = new Empoyee() { firstName = "Sample", lastName = "Student" };
+            Employee HomerS = new Employee() { firstName = "Homer", lastName = "Simpson", IdNumber = 742};
 
             HomerS.SayName(); //calls the abstract method SayName with the employee object
+            HomerS.Quit();
             Console.ReadLine();
         }
     }
