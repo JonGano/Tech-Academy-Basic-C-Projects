@@ -12,8 +12,9 @@ namespace AbstractClassAssignment
         {   //Instantiates an object from the Employee class
             Employee HomerS = new Employee() { firstName = "Homer", lastName = "Simpson", IdNumber = 742};
 
+            IQuittable quit = new Employee();
             HomerS.SayName(); //calls the abstract method SayName with the employee object
-            HomerS.Quit();
+            quit.Quit();
             Console.ReadLine();
         }
     }

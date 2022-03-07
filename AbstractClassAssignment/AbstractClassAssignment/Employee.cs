@@ -16,7 +16,7 @@ namespace AbstractClassAssignment
         public void Quit()
         {
             IdNumber = 0;
-            Console.WriteLine(firstName + " " + lastName + " not active. " + "Employee Id# changed to: " + IdNumber);
+            Console.WriteLine("I quit");
         }
         
     }
