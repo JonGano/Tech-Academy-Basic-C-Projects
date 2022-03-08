@@ -1,0 +1,7 @@
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.exe.config
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.pdb
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.csproj.AssemblyReference.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.pdb
