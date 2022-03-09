@@ -1,0 +1,7 @@
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\structAssignment\structAssignment\obj\Debug\structAssignment.csproj.AssemblyReference.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\structAssignment\structAssignment\obj\Debug\structAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\structAssignment\structAssignment\bin\Debug\structAssignment.exe.config
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\structAssignment\structAssignment\bin\Debug\structAssignment.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\structAssignment\structAssignment\bin\Debug\structAssignment.pdb
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\structAssignment\structAssignment\obj\Debug\structAssignment.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\structAssignment\structAssignment\obj\Debug\structAssignment.pdb
