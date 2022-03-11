@@ -9,7 +9,7 @@ namespace PersonClassAssignment
     public class Person
     {   //sets a first and last name property
         public string FirstName { get; set; }
-        public String LastName { get; set; }
+        public string LastName { get; set; }
        
         public void SayName()
         {
