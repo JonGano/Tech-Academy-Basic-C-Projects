@@ -37,13 +37,15 @@ namespace PersonClassAssignment
                 Console.WriteLine(JoeList[i].LastName);//prints out the last name property to the console
             }
 
-            List<Employee> workers = employees.Where(x => x.FirstName == "Joe").ToList();//makes a new list, looks for FirstName properties with the value "Joe"
-                                                                                         //from the employees list and adds them to the new list workers
+            List<Employee> workers = employees.Where(x => x.FirstName == "Joe").ToList();//lambda expression makes a new list, looks for FirstName 
+                                                           //properties with the value "Joe"from the employees list and adds them to the new list workers
             foreach (Employee worker in workers)
-            {
+            {                                      //for each loop that prints the LastName's property of every list item
                 Console.WriteLine(worker.LastName);
             }
-            
+                                     //lambda expression to sift through employees list and find all id #'s greater than five.
+            List<Employee> idNum = employees.Where(x => x.Id > 5 ).ToList();     //ToList() collects these elements and creates a list which is then assigned
+                                                                                //to employee list idNum
 
             //Instantiates an object from the Person Class and gives it's properties values
             //Person joe = new Person() { FirstName = "Joe", LastName = "Dimaggio" };
