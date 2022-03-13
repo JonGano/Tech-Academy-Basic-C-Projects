@@ -6,14 +6,38 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Card
+    public struct Card
     {   //public means it's accessible to other parts of the program.
-        public Card() //This is a constructor it can assign default values to a class's objects
+       
+        public Suit Suit { get; set; }
+        public Face Face { get; set; }
+
+        public override string ToString()//overrides the ToString() method to return "Face of Suit"
         {
-            Suit = "Spades";
-            Face = "Two";
+            return string.Format("{0} of {1}", Face, Suit);
         }
-        public string Suit { get; set; }
-        public string Face { get; set; }
-    }       //Suit and Face are properties assigned to this class
+    }       //Suit and Face are properties of data type enum assigned to this class
+    public enum Suit
+    {
+        Hearts,
+        Daimonds,
+        Clubs,
+        Spades
+    }
+    public enum Face
+    {
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King,
+        Ace
+    }
 }

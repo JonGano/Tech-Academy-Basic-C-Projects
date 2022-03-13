@@ -7,50 +7,33 @@ using System.Threading.Tasks;
 namespace TwentyOne
 {
     class Program
-    {
+    {   //the Main method is the entrance point in a console application
         static void Main(string[] args)//if a method is used without first creating an object of that class it has to be marked static
         {
-            Deck deck = new Deck();
-            int timesShuffled = 0;//added to code to show times shuffled*********
-            deck = Shuffle(deck: deck, out timesShuffled, times: 25);//named parameters are not necessary but are easier to read
-                                     //added to code to show times shuffled, this is called an "out parameter"*********
+            Console.WriteLine("Welcome to the Grand Hotel and Casino.  Let's start by telling me your name.");
+            string playerName = Console.ReadLine();//assigns user's string value to variable playername
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
-            Console.WriteLine("Times Shuffled: {0}", timesShuffled);// {} with the number of the variable inside that you want to display {1} would be 
-            Console.ReadLine();                                                     //whatever followed timesShuffled, ThisVariable)doesn't exist in this particular code.
-        }
-                                               //This creates an optional parameter by assigning it a default value
-        public static Deck Shuffle(Deck deck, out int timesShuffled, int times = 1)// a method must be part of a class
-         {
-            timesShuffled = 0;//added to code to show times shuffled*********
-            for (int i = 0; i < times; i++) //incorporated counter loop code from the overload to produce a smaller amount of code by giving it an optional parameter
-            {
-                timesShuffled++;//added to code to show times shuffled*********
-                List<Card> TempList = new List<Card>();
-                Random random = new Random();
+            Console.WriteLine("And how much money did you bring today?");//assign user's int value to varaible bank
+            int bank = Convert.ToInt32(Console.ReadLine());
 
-                while (deck.Cards.Count > 0)
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
+            
+            string answer = Console.ReadLine().ToLower();
+            if (answer.Substring(0, 1) == "y")//wanted to try this instead of yes || yeah || yup || ya 
+            {       
+                Player player = new Player(playerName, bank); //uses the constructor from the Player class. passes in the two arguments collected from the user
+                Game game = new TwentyOneGame();//polymorphism to utilize the player overload method
+                game += player;//player class overload method
+                player.isActivelyPlaying = true;//bool changes to true
+                while (player.isActivelyPlaying && player.Balance > 0)//loop checks for activelyplaying bool and 0 balance 
                 {
-                    int randomIndex = random.Next(0, deck.Cards.Count);
-                    TempList.Add(deck.Cards[randomIndex]);
-                    deck.Cards.RemoveAt(randomIndex);
+                    game.Play();//play method is ran. play method is within the twentyOneGame class
                 }
-                deck.Cards = TempList;
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
             }
-            return deck;
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
+            Console.ReadLine();
         }
-
-        //public static Deck Shuffle(Deck deck, int times) //Creates an overload(method overloading) for the shuffle method. //good for creating a method for api's because default parameters dont always work as well
-        //{                     //adds the int times to the parameters
-        //    for (int i = 0; i < times; i++)//counter loop used to satisfy the number of times a deck is shuffled
-        //    {
-        //        deck = Shuffle(deck); //shuffles deck
-        //    }
-        //    return deck;
-        //}
     }
 }
