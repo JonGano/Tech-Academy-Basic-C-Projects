@@ -1,0 +1,7 @@
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\LoggingAssignment\LoggingAssignment\bin\Debug\LoggingAssignment.exe.config
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\LoggingAssignment\LoggingAssignment\bin\Debug\LoggingAssignment.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\LoggingAssignment\LoggingAssignment\bin\Debug\LoggingAssignment.pdb
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\LoggingAssignment\LoggingAssignment\obj\Debug\LoggingAssignment.csproj.AssemblyReference.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\LoggingAssignment\LoggingAssignment\obj\Debug\LoggingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\LoggingAssignment\LoggingAssignment\obj\Debug\LoggingAssignment.exe
+C:\Users\Jon\Documents\C# repo\Tech-Academy-Basic-C-Sharp-Projects\LoggingAssignment\LoggingAssignment\obj\Debug\LoggingAssignment.pdb
