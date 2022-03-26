@@ -49,11 +49,11 @@ namespace AutoInsurance.Controllers
             
                 if (insuree.DateOfBirth > (DateTime.Now.AddYears(-18))) quote += 100;
 
-                if (insuree.DateOfBirth > (DateTime.Now.AddYears(-18)) && insuree.DateOfBirth < (DateTime.Now.AddYears(-25)))
+                if (insuree.DateOfBirth <= (DateTime.Now.AddYears(-18)) && insuree.DateOfBirth >= (DateTime.Now.AddYears(-25)))
                 {
                     quote += 50;
                 }
-                if (insuree.DateOfBirth < (DateTime.Now.AddYears(-25)))
+                if (insuree.DateOfBirth <= (DateTime.Now.AddYears(-26)))
                 {
                     quote += 25;
                 }
@@ -67,7 +67,7 @@ namespace AutoInsurance.Controllers
                 {
                     quote += (insuree.SpeedingTickets * 10);
                 }
-
+                //DateTime.Now.Year - insuree.DateOfBirth < 18
                 if (insuree.DUI == true) quote += (quote / 4);
 
             if (insuree.CoverageType == true)
