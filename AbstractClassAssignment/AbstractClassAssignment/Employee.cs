@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace AbstractClassAssignment
 {               //<T>
-    class Employee: Person, IQuittable//states that Employee class inherits from the person class and IQuittable interface
+    class Employee<T>: Person, IQuittable//states that Employee class inherits from the person class and IQuittable interface
     {
-        public List<string> Things { get; set; }
+        public List<T> Things { get; set; }
         public int IdNumber { get; set; }
         public override void SayName()//implements inherited abstract method
             {
