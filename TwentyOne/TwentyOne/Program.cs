@@ -59,16 +59,16 @@ namespace TwentyOne
                                            //using streamwriter, called it file,  assigned it new streamwriter object, path of where log is. StrmWrtr arguments are(string path, bool append)
                 using (StreamWriter file = new StreamWriter(@"C:\Users\Jon\Documents\Logs\log.txt", true))//streams are unmanaged code, using statement insures that everything 
                 {//automatically disposes of resources/cleans up memory once finished. stream is an incoming flow of bytes, used a lot for things where the final size is incertain
-                    file.WriteLine(player.Id);//logs playr Id(guid) property
+                    file.WriteLine(player.Id);//logs playr Id(guid) property.
                 }
                 Game game = new TwentyOneGame();//polymorphism to utilize the player overload method
                 game += player;//player class overload method
                 player.isActivelyPlaying = true;//bool changes to true
-                while (player.isActivelyPlaying && player.Balance > 0)//loop checks for activelyplaying bool and 0 balance 
+                while (player.isActivelyPlaying && player.Balance > 0)//loop checks for activelyplaying bool and 0 balance .
                 {
                     try//wrapped game.Play in a try/catch 
                     {//any exceptions that happen within the play method will be handled
-                        game.Play();//play method is ran. play method is within the twentyOneGame class
+                        game.Play();//play method is ran. play method is within the twentyOneGame class.
                     }
                     catch (FraudException ex)//this is more specific that just (Exception) so it goes first as exceptions are done in order
                     {//gave catch the dataType:fraudexception. To pass in as argument we then give the object a name (ex)
