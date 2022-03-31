@@ -94,9 +94,9 @@ namespace AutoInsurance.Controllers
 
                 try
                 {
-                    insuree.Quote = Quotes(insuree);
-                    db.Insurees.Add(insuree);
-                    db.SaveChanges();
+                    insuree.Quote = Quotes(insuree);//calls the quotes method from above
+                    db.Insurees.Add(insuree);//adds the user input and quote to the db
+                    db.SaveChanges();//saves
                     return RedirectToAction("Index");
                 }
                 catch
