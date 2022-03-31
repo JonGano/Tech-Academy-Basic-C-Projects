@@ -15,7 +15,7 @@ namespace ServerTimeAssignment.Pages
 
         
         public void OnGet()//onget method sends data to cshtmlpage
-        {//this keyword points to the object for which the method is called
+        {//this keyword points to the object for which the method is called.
             this.Message = DateTime.UtcNow.ToString();
         }
 
